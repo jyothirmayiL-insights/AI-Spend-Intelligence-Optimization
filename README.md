@@ -25,10 +25,7 @@ Establish effective cost control, budgeting, and governance mechanisms
 ## 📊 Live Dashboard
 
 🔗 **[View Live Dashboard →](https://jyothirmayiL-insights.github.io/AI-Spend-Intelligence-Optimization/)**
-
-
-
-![Dashboard](dashboard/dashboard_preview.png)
+      ![Dashboard](dashboard/dashboard_preview.png)
 
 
 ---
@@ -38,6 +35,16 @@ The objective of this project is to build a centralized AI Spend Intelligence sy
 The solution focuses on delivering actionable insights that help improve cost efficiency, resource utilization, and return on investment (ROI) from AI tools.
 
 ---
+
+### 💡 Why HTML Instead of Power BI?
+
+This dashboard is developed using HTML while following established **Power BI design principles**, including KPI-driven reporting, structured analytical flow, and business-oriented visualization.
+
+HTML was deliberately chosen to enable seamless integration with Python-based data processing, support automated report generation, and allow efficient deployment via GitHub Pages.
+
+*Note:* The underlying data model, transformations, and insights are fully transferable to Power BI and can be implemented using DAX and standard visualization components.
+
+ ---
 
 ## 🔑 Key Insights
 
