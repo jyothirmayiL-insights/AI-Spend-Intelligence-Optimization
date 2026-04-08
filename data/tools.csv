@@ -1,0 +1,7 @@
+tool_id,tool_name,cost_per_1k_input,cost_per_1k_output,pricing_model
+TL01,ChatGPT-4,0.03,0.06,token-based
+TL02,ChatGPT-3.5,0.002,0.002,token-based
+TL03,Claude-3-Sonnet,0.003,0.015,token-based
+TL04,GitHub-Copilot,0.0,0.0,subscription
+TL05,Gemini-Pro,0.001,0.001,token-based
+TL06,Perplexity,0.001,0.001,token-based

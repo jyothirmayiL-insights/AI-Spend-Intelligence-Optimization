@@ -1,0 +1,9 @@
+team,total_spend,avg_quality,retry_rate,anomalies,cost_per_user,recommendation
+Engineering,137.88,3.82,8.6,57,9.19,Set token limits per request
+Product,24.74,3.89,6.5,34,3.09,Set token limits per request
+Legal,20.71,3.77,9.5,29,2.96,Monitor monthly — usage is healthy
+Data & Analytics,18.41,3.73,10.3,14,3.07,Monitor monthly — usage is healthy
+Finance,6.83,3.78,8.4,65,0.4,Set token limits per request
+HR,6.09,3.9,7.1,36,0.68,Set token limits per request
+Marketing,4.96,3.88,6.6,15,0.99,Monitor monthly — usage is healthy
+Customer Support,0.58,3.8,6.5,20,0.07,Monitor monthly — usage is healthy

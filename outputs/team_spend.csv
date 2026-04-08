@@ -1,0 +1,9 @@
+team,requests,spend_usd,avg_quality,retry_pct,spend_per_user
+Engineering,1000,137.88,3.82,8.6,9.19
+Product,556,24.74,3.89,6.5,3.09
+Legal,496,20.71,3.77,9.5,2.96
+Data & Analytics,397,18.41,3.73,10.3,3.07
+Finance,1119,6.83,3.78,8.4,0.4
+HR,580,6.09,3.9,7.1,0.68
+Marketing,317,4.96,3.88,6.6,0.99
+Customer Support,535,0.58,3.8,6.5,0.07

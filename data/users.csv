@@ -1,0 +1,76 @@
+user_id,user_name,team,team_id,role,join_date
+U1001,Employee_1001,Engineering,T01,Junior Analyst,2023-10-17
+U1002,Employee_1002,Engineering,T01,Junior Analyst,2023-04-24
+U1003,Employee_1003,Engineering,T01,Lead,2020-03-06
+U1004,Employee_1004,Engineering,T01,Junior Analyst,2020-07-10
+U1005,Employee_1005,Engineering,T01,Senior Analyst,2021-04-21
+U1006,Employee_1006,Engineering,T01,Junior Analyst,2023-02-23
+U1007,Employee_1007,Engineering,T01,Senior Analyst,2023-08-23
+U1008,Employee_1008,Engineering,T01,Lead,2021-03-27
+U1009,Employee_1009,Engineering,T01,Lead,2023-04-21
+U1010,Employee_1010,Engineering,T01,Manager,2020-01-14
+U1011,Employee_1011,Engineering,T01,Senior Analyst,2023-11-30
+U1012,Employee_1012,Engineering,T01,Lead,2021-11-27
+U1013,Employee_1013,Engineering,T01,Manager,2020-11-14
+U1014,Employee_1014,Engineering,T01,Senior Analyst,2021-11-20
+U1015,Employee_1015,Engineering,T01,Junior Analyst,2020-07-08
+U1016,Employee_1016,Data & Analytics,T02,Lead,2020-07-17
+U1017,Employee_1017,Data & Analytics,T02,Manager,2021-12-05
+U1018,Employee_1018,Data & Analytics,T02,Manager,2020-03-29
+U1019,Employee_1019,Data & Analytics,T02,Lead,2023-01-03
+U1020,Employee_1020,Data & Analytics,T02,Junior Analyst,2022-02-14
+U1021,Employee_1021,Data & Analytics,T02,Junior Analyst,2023-02-04
+U1022,Employee_1022,Marketing,T03,Manager,2023-07-11
+U1023,Employee_1023,Marketing,T03,Manager,2023-03-28
+U1024,Employee_1024,Marketing,T03,Senior Analyst,2023-12-13
+U1025,Employee_1025,Marketing,T03,Junior Analyst,2020-04-03
+U1026,Employee_1026,Marketing,T03,Senior Analyst,2021-08-15
+U1027,Employee_1027,Finance,T04,Junior Analyst,2021-04-21
+U1028,Employee_1028,Finance,T04,Junior Analyst,2022-02-17
+U1029,Employee_1029,Finance,T04,Manager,2022-07-17
+U1030,Employee_1030,Finance,T04,Manager,2020-11-29
+U1031,Employee_1031,Finance,T04,Manager,2021-12-28
+U1032,Employee_1032,Finance,T04,Senior Analyst,2023-10-04
+U1033,Employee_1033,Finance,T04,Manager,2023-12-08
+U1034,Employee_1034,Finance,T04,Junior Analyst,2023-06-01
+U1035,Employee_1035,Finance,T04,Senior Analyst,2022-12-29
+U1036,Employee_1036,Finance,T04,Senior Analyst,2020-11-30
+U1037,Employee_1037,Finance,T04,Lead,2022-02-16
+U1038,Employee_1038,Finance,T04,Manager,2023-08-03
+U1039,Employee_1039,Finance,T04,Senior Analyst,2023-11-03
+U1040,Employee_1040,Finance,T04,Manager,2020-04-24
+U1041,Employee_1041,Finance,T04,Senior Analyst,2020-03-06
+U1042,Employee_1042,Finance,T04,Manager,2022-04-01
+U1043,Employee_1043,Finance,T04,Manager,2020-05-15
+U1044,Employee_1044,HR,T05,Senior Analyst,2023-03-07
+U1045,Employee_1045,HR,T05,Manager,2021-03-11
+U1046,Employee_1046,HR,T05,Lead,2022-03-21
+U1047,Employee_1047,HR,T05,Lead,2020-10-19
+U1048,Employee_1048,HR,T05,Manager,2020-10-12
+U1049,Employee_1049,HR,T05,Senior Analyst,2023-02-23
+U1050,Employee_1050,HR,T05,Manager,2023-04-12
+U1051,Employee_1051,HR,T05,Lead,2023-04-10
+U1052,Employee_1052,HR,T05,Lead,2022-01-11
+U1053,Employee_1053,Product,T06,Senior Analyst,2020-10-10
+U1054,Employee_1054,Product,T06,Lead,2020-07-05
+U1055,Employee_1055,Product,T06,Junior Analyst,2020-08-12
+U1056,Employee_1056,Product,T06,Senior Analyst,2023-07-09
+U1057,Employee_1057,Product,T06,Senior Analyst,2023-10-25
+U1058,Employee_1058,Product,T06,Lead,2023-05-06
+U1059,Employee_1059,Product,T06,Junior Analyst,2022-02-27
+U1060,Employee_1060,Product,T06,Lead,2023-05-05
+U1061,Employee_1061,Customer Support,T07,Lead,2022-12-19
+U1062,Employee_1062,Customer Support,T07,Manager,2023-02-07
+U1063,Employee_1063,Customer Support,T07,Junior Analyst,2023-10-25
+U1064,Employee_1064,Customer Support,T07,Junior Analyst,2023-10-28
+U1065,Employee_1065,Customer Support,T07,Manager,2023-08-05
+U1066,Employee_1066,Customer Support,T07,Manager,2020-08-16
+U1067,Employee_1067,Customer Support,T07,Manager,2022-06-09
+U1068,Employee_1068,Customer Support,T07,Senior Analyst,2022-07-18
+U1069,Employee_1069,Legal,T08,Junior Analyst,2021-06-23
+U1070,Employee_1070,Legal,T08,Senior Analyst,2022-11-05
+U1071,Employee_1071,Legal,T08,Junior Analyst,2023-07-04
+U1072,Employee_1072,Legal,T08,Manager,2023-08-01
+U1073,Employee_1073,Legal,T08,Senior Analyst,2020-11-09
+U1074,Employee_1074,Legal,T08,Manager,2020-11-26
+U1075,Employee_1075,Legal,T08,Junior Analyst,2023-05-11

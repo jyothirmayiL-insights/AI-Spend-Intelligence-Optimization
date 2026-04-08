@@ -1,0 +1,97 @@
+team,month,budget_usd
+Engineering,2024-01,800
+Engineering,2024-02,800
+Engineering,2024-03,800
+Engineering,2024-04,800
+Engineering,2024-05,800
+Engineering,2024-06,800
+Engineering,2024-07,800
+Engineering,2024-08,800
+Engineering,2024-09,800
+Engineering,2024-10,800
+Engineering,2024-11,800
+Engineering,2024-12,800
+Data & Analytics,2024-01,600
+Data & Analytics,2024-02,600
+Data & Analytics,2024-03,600
+Data & Analytics,2024-04,600
+Data & Analytics,2024-05,600
+Data & Analytics,2024-06,600
+Data & Analytics,2024-07,600
+Data & Analytics,2024-08,600
+Data & Analytics,2024-09,600
+Data & Analytics,2024-10,600
+Data & Analytics,2024-11,600
+Data & Analytics,2024-12,600
+Marketing,2024-01,500
+Marketing,2024-02,500
+Marketing,2024-03,500
+Marketing,2024-04,500
+Marketing,2024-05,500
+Marketing,2024-06,500
+Marketing,2024-07,500
+Marketing,2024-08,500
+Marketing,2024-09,500
+Marketing,2024-10,500
+Marketing,2024-11,500
+Marketing,2024-12,500
+Finance,2024-01,400
+Finance,2024-02,400
+Finance,2024-03,400
+Finance,2024-04,400
+Finance,2024-05,400
+Finance,2024-06,400
+Finance,2024-07,400
+Finance,2024-08,400
+Finance,2024-09,400
+Finance,2024-10,400
+Finance,2024-11,400
+Finance,2024-12,400
+HR,2024-01,300
+HR,2024-02,300
+HR,2024-03,300
+HR,2024-04,300
+HR,2024-05,300
+HR,2024-06,300
+HR,2024-07,300
+HR,2024-08,300
+HR,2024-09,300
+HR,2024-10,300
+HR,2024-11,300
+HR,2024-12,300
+Product,2024-01,500
+Product,2024-02,500
+Product,2024-03,500
+Product,2024-04,500
+Product,2024-05,500
+Product,2024-06,500
+Product,2024-07,500
+Product,2024-08,500
+Product,2024-09,500
+Product,2024-10,500
+Product,2024-11,500
+Product,2024-12,500
+Customer Support,2024-01,350
+Customer Support,2024-02,350
+Customer Support,2024-03,350
+Customer Support,2024-04,350
+Customer Support,2024-05,350
+Customer Support,2024-06,350
+Customer Support,2024-07,350
+Customer Support,2024-08,350
+Customer Support,2024-09,350
+Customer Support,2024-10,350
+Customer Support,2024-11,350
+Customer Support,2024-12,350
+Legal,2024-01,250
+Legal,2024-02,250
+Legal,2024-03,250
+Legal,2024-04,250
+Legal,2024-05,250
+Legal,2024-06,250
+Legal,2024-07,250
+Legal,2024-08,250
+Legal,2024-09,250
+Legal,2024-10,250
+Legal,2024-11,250
+Legal,2024-12,250
