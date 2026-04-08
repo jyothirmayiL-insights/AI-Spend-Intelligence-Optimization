@@ -269,7 +269,7 @@ footer strong { color:var(--text); font-weight:600; }
              <div class="cs">Blue line = Spend (USD) · Red dashed = Number of requests</div></div>
         <span class="cbadge">SQL Query 4 · Time Series</span>
       </div>
-      <img src="../charts/01_monthly_trend.png">
+      <img src="charts/01_monthly_trend.png">
       <div class="card-foot">
         <strong>Finding:</strong> 2024-08 was the peak spending month. Usage shows a clear upward trend in H2 2024 as teams expanded AI adoption. Month-over-month growth was computed using the SQL LAG() window function (Query 13).
       </div>
@@ -290,7 +290,7 @@ footer strong { color:var(--text); font-weight:600; }
                <div class="cs">Ranked by annual spend — 2024</div></div>
           <span class="cbadge">SQL Query 2 · GROUP BY</span>
         </div>
-        <img src="../charts/02_team_spend.png">
+        <img src="charts/02_team_spend.png">
         <div class="card-foot">
           <strong>Engineering</strong> is the top spending team — driven primarily by GitHub-Copilot usage. This analysis helps the finance team decide where to set tighter budgets.
         </div>
@@ -301,7 +301,7 @@ footer strong { color:var(--text); font-weight:600; }
                <div class="cs">Which tools cost the company the most</div></div>
           <span class="cbadge">SQL Query 3 · Aggregation</span>
         </div>
-        <img src="../charts/03_tool_spend.png" alt="Tool Spend Chart" width="100%">
+        <img src="charts/03_tool_spend.png">
         <div class="card-foot">
           <strong>GitHub-Copilot</strong> is the highest-cost tool. Key insight: routing low-complexity tasks (emails, summaries) from expensive models to cheaper alternatives saves ~60–70% per request with minimal quality loss.
         </div>
@@ -323,7 +323,7 @@ footer strong { color:var(--text); font-weight:600; }
                <div class="cs">Bubble size = total spend · Top-left = most efficient</div></div>
           <span class="cbadge">SQL Query 9 · Efficiency</span>
         </div>
-        <img src="../charts/04_quality_vs_retry.png">
+        <img src="charts/04_quality_vs_retry.png">
         <div class="card-foot">
           Teams with <strong>high retry rates</strong> are spending money on poor prompts. The most efficient teams are in the top-left: high quality, low retries. This directly maps to SQL Query 9 which calculates wasted spend per team.
         </div>
@@ -334,7 +334,7 @@ footer strong { color:var(--text); font-weight:600; }
                <div class="cs">Peak usage windows highlighted in red</div></div>
           <span class="cbadge">SQL Query 10 · Hourly</span>
         </div>
-        <img src="../charts/05_hourly_pattern.png">
+       <img src="charts/05_hourly_pattern.png">
         <div class="card-foot">
           Peak AI usage at <strong>9–11am and 2–4pm</strong> aligns with typical deep-work hours. Late-evening usage worth monitoring — may indicate overtime or non-work use.
         </div>
