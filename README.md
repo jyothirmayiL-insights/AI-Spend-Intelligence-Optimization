@@ -25,6 +25,7 @@ Establish effective cost control, budgeting, and governance mechanisms
 ## 📊 Live Dashboard
 
 **[View Live Dashboard →](https://YOUR-USERNAME.github.io/ai-spend-intelligence)**
+
 ![Dashboard](dashboard/dashboard_preview.png)
 
 
