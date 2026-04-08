@@ -24,7 +24,7 @@ Establish effective cost control, budgeting, and governance mechanisms
 
 ## 📊 Live Dashboard
 
-🔗 **[View Live Dashboard →](https://jyothirmayiL-insights.github.io/AI-Spend-Intelligence-Optimization/)**
+🔗**[View Live Dashboard →](https://jyothirmayiL-insights.github.io/AI-Spend-Intelligence-Optimization/)**
 
 
 ![Dashboard](dashboard/dashboard_preview.png)
