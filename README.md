@@ -33,15 +33,15 @@ The solution focuses on delivering actionable insights that help improve cost ef
 
 ---
 
-### 💡 Why HTML Instead of Power BI?
+## 💡 Why HTML Instead of Power BI?
 
-This dashboard is developed using HTML while following established **Power BI design principles**, including KPI-driven reporting, structured analytical flow, and business-oriented visualization.
+While Power BI is widely used for dashboarding, this project leverages HTML to demonstrate greater flexibility, automation, and integration with Python-based data pipelines.
 
-HTML was deliberately chosen to enable seamless integration with Python-based data processing, support automated report generation, and allow efficient deployment via GitHub Pages.
+The dashboard is designed following Power BI principles such as KPI-driven reporting, structured analytical flow, and business-oriented visualization.
 
-*Note:* The underlying data model, transformations, and insights are fully transferable to Power BI and can be implemented using DAX and standard visualization components.
+HTML enables automated report generation, seamless integration with data processing scripts, and efficient deployment via GitHub Pages.
 
- ---
+*Note:* The data model, transformations, and insights are fully transferable to Power BI using DAX and standard visualization components.
 
 ## 🔑 Key Insights
 
