@@ -1,32 +1,29 @@
 # 🤖 AI Spend Intelligence & Optimization Dashboard
 
-Technologies: SQL · Python (Pandas, NumPy) · Matplotlib · SQLite · HTML
-Designed and implemented a scalable analytics solution to track AI tool utilization, cost efficiency, and token consumption across 8 teams, delivering actionable insights for optimization.
-
+End-to-End Data Analytics Project | SQL + Python + Dashboarding  
+💰 Identified $142+ in cost inefficiencies and enabled data-driven optimization across 8 teams.
 ---
 
 ## 🎯 Problem Statement
 
 Organizations increasingly rely on AI tools such as ChatGPT, GitHub Copilot, and Claude to enhance productivity and automate workflows. However, with the rapid growth of AI adoption, organizations face a critical challenge: lack of visibility and control over AI usage and associated costs.
 Currently, there is no centralized system to effectively monitor how AI tools are utilized across teams, resulting in limited transparency and suboptimal decision-making.
+
 As a result, organizations struggle to:
-
-Identify which users, teams, or departments are driving the highest AI usage and costs
-Track token-level consumption (input, output, total tokens), the primary driver of AI pricing
-Detect redundant, low-value, or unusually expensive AI requests
-Measure the business value and return on investment (ROI) generated from AI usage
-Compare the cost-effectiveness of different AI tools, models, and providers
-Establish effective cost control, budgeting, and governance mechanisms
-
+- Identify which users, teams, or departments drive highest usage and cost  
+- Track token-level consumption (input, output, total tokens)  
+- Detect redundant, low-value, or expensive AI requests  
+- Measure ROI from AI usage  
+- Compare cost-effectiveness across tools and models  
+- Establish governance and cost control mechanisms  
 **This project builds a full analytics pipeline that answers all these questions.**
 
 ---
 
 ## 📊 Live Dashboard
-
+Interactive dashboard showcasing AI usage, cost trends, anomaly detection, and team-level insights.
 🔗 **[View Live Dashboard →](https://jyothirmayiL-insights.github.io/AI-Spend-Intelligence-Optimization/)**
       ![Dashboard](dashboard/dashboard_preview.png)
-
 
 ---
 ## 💡 Objective
@@ -48,40 +45,38 @@ HTML was deliberately chosen to enable seamless integration with Python-based da
 
 ## 🔑 Key Insights
 
-Identified significant cost inefficiencies, with a large portion of AI spend attributed to non-optimal usage patterns
-Detected anomalous high-cost requests, indicating potential misuse or inefficient prompt design
-Observed retry behavior contributing to increased token consumption and cost overhead
-Found cost concentration among a small group of users, highlighting governance opportunities
-Identified potential cost savings through optimized usage and monitoring strategies
+- Identified **$142+ in cost inefficiencies** due to non-optimal usage  
+- Detected anomalous high-cost requests using Z-score and IQR methods  
+- Observed retry behavior increasing token consumption and cost overhead  
+- Found cost concentration among a small group of users  
+- Identified opportunities for cost optimization through better usage patterns  
 
 ---
 
 ## 💡 Recommendations
-Implement token-level monitoring to track AI cost drivers
-Introduce budget controls and usage alerts for teams
-Optimize prompts to reduce retry rates and unnecessary token usage
-Use cost-efficient AI models where applicable
-Establish AI usage governance policies
+
+- Implement token-level monitoring for cost tracking  
+- Introduce budget controls and usage alerts  
+- Optimize prompts to reduce retries and token usage  
+- Use cost-efficient AI models  
+- Establish governance policies for AI usage  
 
 ---
 
 ## 🔄 Data Flow
-
-Data Generation (Python)
-        ↓
-CSV / Excel Files
-        ↓
-SQLite Database
-        ↓
-SQL Queries (Analysis)
-        ↓
-Python Processing (Pandas, NumPy)
-        ↓
-Visualization (Matplotlib)
-        ↓
-Automated HTML Dashboard
+Python → CSV/Excel → SQLite → SQL Analysis → Python Processing → Visualization → HTML Dashboard
 
 ---
+
+## ⚙️ Key Features
+
+- End-to-end analytics pipeline (data → SQL → Python → dashboard)  
+- Automated anomaly detection (Z-score, IQR)  
+- SQL-based cost and usage analysis  
+- Auto-generated HTML dashboard  
+- Multi-source data integration
+
+  ---
 
 ** 🛠️ Tech Stack
 
@@ -196,19 +191,16 @@ open dashboard/index.html
 
 ## 🌍 Business Value
 
-This project helps organizations:
-
-Gain visibility into AI usage and token-level costs
-Identify wasteful spending and inefficiencies
-Optimize AI tool usage and cost distribution
-Improve decision-making using data-driven insights
-Maximize ROI from AI investments
+- Gain visibility into AI usage and token-level costs  
+- Identify wasteful spending and inefficiencies  
+- Optimize AI tool usage and cost distribution  
+- Improve decision-making using data insights  
+- Maximize ROI from AI investments  
 
 ---
 ## 🏁 Project Summary
 
-Designed and implemented an end-to-end AI Spend Intelligence solution that tracks usage, analyzes cost drivers, detects anomalies, and provides actionable insights for optimizing AI expenditure.
-
+Built an end-to-end AI Spend Intelligence solution leveraging SQL and Python to analyze 5,000+ usage records across 8 teams, uncover cost inefficiencies, detect anomalies, and enable data-driven optimization of AI spending.
 ---
 *Synthetic dataset simulating realistic AI tool usage in a 200-person technology company.*  
 *Pricing based on approximate real-world API rates as of 2024.*
