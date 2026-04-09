@@ -1,6 +1,7 @@
 # 🤖 AI Spend Intelligence & Optimization Dashboard
 
-End-to-End Data Analytics Project | SQL + Python + Dashboarding  
+## 🚀 End-to-End Data Analytics Project | SQL + Python + Dashboarding  
+
 💰 Identified $142+ in cost inefficiencies and enabled data-driven optimization across 8 teams.
 ---
 
@@ -21,11 +22,14 @@ As a result, organizations struggle to:
 ---
 
 ## 📊 Live Dashboard
+
 Interactive dashboard showcasing AI usage, cost trends, anomaly detection, and team-level insights.
+
 🔗 **[View Live Dashboard →](https://jyothirmayiL-insights.github.io/AI-Spend-Intelligence-Optimization/)**
       ![Dashboard](dashboard/dashboard_preview.png)
 
 ---
+
 ## 💡 Objective
 
 The objective of this project is to build a centralized AI Spend Intelligence system that enables organizations to monitor AI usage, track token-level costs, detect inefficiencies, and optimize overall AI spending.
@@ -42,6 +46,8 @@ The dashboard is designed following Power BI principles such as KPI-driven repor
 HTML enables automated report generation, seamless integration with data processing scripts, and efficient deployment via GitHub Pages.
 
 *Note:* The data model, transformations, and insights are fully transferable to Power BI using DAX and standard visualization components.
+
+---
 
 ## 🔑 Key Insights
 
@@ -78,7 +84,7 @@ Python → CSV/Excel → SQLite → SQL Analysis → Python Processing → Visua
 
   ---
 
-** 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | **Layer**           | **Tools / Technologies** | **Purpose**                                            |
 | ------------------- | ------------------------ | ------------------------------------------------------ |
