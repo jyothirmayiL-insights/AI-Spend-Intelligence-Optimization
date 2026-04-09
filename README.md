@@ -82,7 +82,7 @@ Python → CSV/Excel → SQLite → SQL Analysis → Python Processing → Visua
 - Auto-generated HTML dashboard  
 - Multi-source data integration
 
-  ---
+---
 
 ## 🛠️ Tech Stack
 
@@ -204,9 +204,11 @@ open dashboard/index.html
 - Maximize ROI from AI investments  
 
 ---
+
 ## 🏁 Project Summary
 
 Built an end-to-end AI Spend Intelligence solution leveraging SQL and Python to analyze 5,000+ usage records across 8 teams, uncover cost inefficiencies, detect anomalies, and enable data-driven optimization of AI spending.
+
 ---
 *Synthetic dataset simulating realistic AI tool usage in a 200-person technology company.*  
 *Pricing based on approximate real-world API rates as of 2024.*
