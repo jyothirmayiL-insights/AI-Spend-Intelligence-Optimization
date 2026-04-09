@@ -1,7 +1,7 @@
 # 🤖 AI Spend Intelligence & Optimization Dashboard
 
-> **SQL · Python · pandas · NumPy · Matplotlib · SQLite · HTML Auto-Generated Dashboard**  
-> End-to-end analytics solution tracking AI tool costs, token usage, and efficiency across 8 teams.
+Technologies: SQL · Python (Pandas, NumPy) · Matplotlib · SQLite · HTML
+Designed and implemented a scalable analytics solution to track AI tool utilization, cost efficiency, and token consumption across 8 teams, delivering actionable insights for optimization.
 
 ---
 
