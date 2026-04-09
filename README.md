@@ -16,7 +16,8 @@ As a result, organizations struggle to:
 - Detect redundant, low-value, or expensive AI requests  
 - Measure ROI from AI usage  
 - Compare cost-effectiveness across tools and models  
-- Establish governance and cost control mechanisms  
+- Establish governance and cost control mechanisms
+
 **This project builds a full analytics pipeline that answers all these questions.**
 
 ---
